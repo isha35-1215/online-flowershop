@@ -44,12 +44,12 @@
 
 .feature-item {
     margin-top: 140px;
+    text-align: center;
     /* margin-right: 240px;
     margin-left: 240px; */
 }
 
 .feature-title {
-    text-align: center;
     padding-left: 100px;
     color: #272727;
     font-size: 40px;
@@ -63,8 +63,6 @@
     font-weight: 400;
     line-height: 30px;
     /* padding-left: 600px; */
-    text-align: center;
-
 }
 
 .image-container {
@@ -156,15 +154,14 @@
 
 .insta {
     margin-top: 140px;
-    margin-right: 240px;
-    margin-left: 240px;
+    text-align: center;
 }
 
 .insta-pic {
     margin-top: 40px;
     display: flex;
-    /* margin-right: 240px;
-    margin-left: 240px; */
+    margin-right: 240px;
+    margin-left: 240px;
     justify-content: space-between;
     gap: 25px;
 }
@@ -174,12 +171,10 @@
     font-size: 40px;
     font-weight: 800;
     padding-left: 100px;
-    text-align: center;
 }
 
 .insta-detail {
     color: rgba(39, 39, 39, 0.60);
-    text-align: center;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
@@ -286,11 +281,8 @@ font-weight: 800;
 .footer-title {
     padding-top: 140px;
     color: #FFF;
-    font-family: Lato;
     font-size: 48px;
-    font-style: normal;
     font-weight: 800;
-    line-height: normal;
 }
 
 .footer-content {
