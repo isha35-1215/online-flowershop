@@ -44,18 +44,20 @@
 
 .feature-item {
     margin-top: 140px;
-    margin-right: 240px;
-    margin-left: 240px;
+    /* margin-right: 240px;
+    margin-left: 240px; */
 }
 
 .feature-title {
     text-align: center;
+    padding-left: 100px;
     color: #272727;
     font-size: 40px;
     font-weight: 800;
 }
 
 .feature-content {
+    padding-left: 100px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
@@ -67,8 +69,8 @@
 
 .image-container {
     margin-top: 40px;
-    /* margin-right: 240px;
-    margin-left: 240px; */
+    margin-right: 240px;
+    margin-left: 240px;
     display: flex;
     justify-content: space-between;
     gap: 25px;
@@ -154,6 +156,8 @@
 
 .insta {
     margin-top: 140px;
+    margin-right: 240px;
+    margin-left: 240px;
 }
 
 .insta-contents {
@@ -163,17 +167,18 @@
 .insta-pic {
     margin-top: 40px;
     display: flex;
-    margin-right: 240px;
-    margin-left: 240px;
+    /* margin-right: 240px;
+    margin-left: 240px; */
     justify-content: space-between;
     gap: 25px;
 }
 
 .instagram {
     color: #272727;
-    font-family: Lato;
     font-size: 40px;
     font-weight: 800;
+    padding-left: 100px;
+
 }
 
 .insta-detail {
@@ -182,6 +187,8 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+    padding-left: 100px;
+
 }
 
 .deals {
